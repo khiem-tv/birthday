@@ -45,7 +45,7 @@ let happy = [];
 const COLORS = [];
 const NUMBER_HAPPY = 500;
 const PI_2 = 2 * Math.PI;
-const audio = new Audio('music.mp3');
+const audio = new Audio('ChungTaCuaTuongLai.mp3');
 const context = canvas.getContext("2d");
 
 // Functions
